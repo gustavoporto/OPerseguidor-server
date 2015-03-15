@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/main/java/br/com/conductor/AcumuladorCompras.java=UTF-8
+encoding//src/main/java/br/com/conductor/AcumuladorComprasResp.java=UTF-8
+encoding//src/main/java/br/com/conductor/AcumuladorPropostas.java=UTF-8
+encoding//src/main/java/br/com/conductor/AcumuladorPropostasAtivadas.java=UTF-8
+encoding//src/main/java/br/com/conductor/AcumuladorPropostasAtivadasResp.java=UTF-8
+encoding//src/main/java/br/com/conductor/AcumuladorPropostasResp.java=UTF-8
+encoding//src/main/java/br/com/conductor/AcumuladorSeguros.java=UTF-8
+encoding//src/main/java/br/com/conductor/AcumuladorSegurosResp.java=UTF-8
+encoding//src/main/java/br/com/conductor/FlashVendas.java=UTF-8
+encoding//src/main/java/br/com/conductor/FlashVendasLocator.java=UTF-8
+encoding//src/main/java/br/com/conductor/FlashVendasSoap.java=UTF-8
+encoding//src/main/java/br/com/conductor/FlashVendasSoapStub.java=UTF-8
